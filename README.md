@@ -1,8 +1,6 @@
----
 # Kohat Nectar – Web Platform
 
-A modern Next.js (App Router) application showcasing fruit varieties of Kohat, Pakistan.
----
+## A modern Next.js (App Router) application showcasing fruit varieties of Kohat, Pakistan.
 
 ## 1. Introduction
 
